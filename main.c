@@ -4,5 +4,6 @@
 int main(void)
 {
     printf("%s\n", get_some_string());
+    printf("MAGIC IS %d", MAGIC_NUM);
     return 0;
 }
