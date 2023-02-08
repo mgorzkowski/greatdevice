@@ -3,6 +3,7 @@
 
 int main(void)
 {
+    // this is call to great module
     printf("%s\n", get_some_string());
     return 0;
 }
